@@ -86,9 +86,3 @@ function sayHello(){
 
     const outputSayHello = sayHello;
     console.log(outputSayHello, typeof outputSayHello);
-
-
-
-
-
-
