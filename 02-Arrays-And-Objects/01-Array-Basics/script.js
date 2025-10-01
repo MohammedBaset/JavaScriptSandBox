@@ -47,10 +47,14 @@ x = fruits;
 console.log(x);
 
 fruits[fruits.length]= 'blueberry';
+
+x = fruits;
+
+console.log(x)
+
+
 fruits[fruits.length]= 'peach';
 
 x = fruits;
 
 console.log(x);
-
-
